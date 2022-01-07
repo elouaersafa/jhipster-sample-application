@@ -1,0 +1,24 @@
+{
+  "name": "Person",
+  "fields": [
+    {
+      "fieldName": "personName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "personLastName",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "person",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20220107163050"
+}
