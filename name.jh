@@ -1,0 +1,7 @@
+
+entity  Person {
+	personName String,
+    personLastName String
+}
+
+
